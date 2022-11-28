@@ -16,6 +16,7 @@
     "type": "git",
     "url": "https://github.com/cruip/open-react-template.git"
   },
+  "homepage": "https://houcine19.github.io/code-io",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
