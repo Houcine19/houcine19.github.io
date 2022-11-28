@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/code-io/static/css/main.d6b55714.chunk.css",
+    "main.js": "/code-io/static/js/main.97df4b92.chunk.js",
+    "main.js.map": "/code-io/static/js/main.97df4b92.chunk.js.map",
+    "runtime-main.js": "/code-io/static/js/runtime-main.1959dbd0.js",
+    "runtime-main.js.map": "/code-io/static/js/runtime-main.1959dbd0.js.map",
+    "static/js/2.09acf405.chunk.js": "/code-io/static/js/2.09acf405.chunk.js",
+    "static/js/2.09acf405.chunk.js.map": "/code-io/static/js/2.09acf405.chunk.js.map",
+    "index.html": "/code-io/index.html",
+    "precache-manifest.4071c97f298580231d966091963e0af1.js": "/code-io/precache-manifest.4071c97f298580231d966091963e0af1.js",
+    "service-worker.js": "/code-io/service-worker.js",
+    "static/css/main.d6b55714.chunk.css.map": "/code-io/static/css/main.d6b55714.chunk.css.map",
+    "static/js/2.09acf405.chunk.js.LICENSE.txt": "/code-io/static/js/2.09acf405.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/code-io/static/media/illustration-section-02.63d0555d.svg",
+    "static/media/feature-tile-icon-01.svg": "/code-io/static/media/feature-tile-icon-01.0f9928d7.svg",
+    "static/media/feature-tile-icon-02.svg": "/code-io/static/media/feature-tile-icon-02.bd39f304.svg",
+    "static/media/feature-tile-icon-03.svg": "/code-io/static/media/feature-tile-icon-03.66f37ba5.svg",
+    "static/media/feature-tile-icon-04.svg": "/code-io/static/media/feature-tile-icon-04.836acd10.svg",
+    "static/media/feature-tile-icon-05.svg": "/code-io/static/media/feature-tile-icon-05.fa9ba00b.svg",
+    "static/media/feature-tile-icon-06.svg": "/code-io/static/media/feature-tile-icon-06.6a177696.svg",
+    "static/media/features-split-image-01.png": "/code-io/static/media/features-split-image-01.d9cb99ce.png",
+    "static/media/features-split-image-02.png": "/code-io/static/media/features-split-image-02.3c569239.png",
+    "static/media/features-split-image-03.png": "/code-io/static/media/features-split-image-03.87e4d053.png",
+    "static/media/logo.svg": "/code-io/static/media/logo.2810a88b.svg",
+    "static/media/video-placeholder.jpg": "/code-io/static/media/video-placeholder.a622fc5d.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1959dbd0.js",
+    "static/js/2.09acf405.chunk.js",
+    "static/css/main.d6b55714.chunk.css",
+    "static/js/main.97df4b92.chunk.js"
+  ]
+}
